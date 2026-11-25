@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+# Files Claude creates during a run
+CLAUDE.md
+EXPERIMENTS.md
+src/
+figures/
+preds/
+results/
